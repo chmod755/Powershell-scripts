@@ -26,3 +26,5 @@ Get-ChildItem -Path "C:\YourDirectory" -Recurse | Where-Object { $_.LastWriteTim
 ```
 
 Feel free to adjust the path and date as needed. If you have any other questions or need further assistance, just let me know!
+
+Add `-Filter *.xlsx` before the pipe to get just excel files 
