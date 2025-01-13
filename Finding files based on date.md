@@ -10,8 +10,6 @@ From Copilot
 
 Give me a powershell command to search a tree of directories for files created after a specified date<br>How would this change to look for files updated since the specified date?
 
-a{text-decoration:none;color:#464feb}
-
 Sure! Here's a PowerShell command to search a tree of directories for files created after a specified date:
 
 ```powershell
